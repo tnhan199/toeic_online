@@ -1,0 +1,1 @@
+create database ToeiccOnline character set utf8
